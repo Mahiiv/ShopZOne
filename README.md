@@ -4,8 +4,7 @@ A multi-page e-commerce frontend built with React, React Router, and the Context
 
 ## Live Demo
 
-- **Live URL:** _add your Vercel link here_
-- **Demo Video:** _add your QA video link here_
+- **Live URL:** https://shopzone-rose.vercel.app/_
 
 ## Features
 
